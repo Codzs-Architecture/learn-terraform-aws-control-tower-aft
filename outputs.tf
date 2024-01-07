@@ -20,3 +20,11 @@ output "aft_management_account_id" {
 output "region" {
   value = var.ct_home_region
 }
+
+output "cloudwatch_log_group_retention" {
+  value = var.cloudwatch_log_group_retention
+}
+
+output "aft_feature_disable_private_networking" {
+  value = var.aft_feature_disable_private_networking
+}

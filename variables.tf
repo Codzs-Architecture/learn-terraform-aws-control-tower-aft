@@ -14,3 +14,13 @@ variable "github_username" {}
 variable "ct_home_region" {}
 
 variable "tf_backend_secondary_region" {}
+
+variable "cloudwatch_log_group_retention" {}
+
+variable "aft_feature_disable_private_networking" {}
+
+variable "aft_vpc_endpoints" {}
+
+variable "aft_feature_cloudtrail_data_events" {}
+
+variable "aft_feature_delete_default_vpcs_enabled" {}
