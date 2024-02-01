@@ -9,8 +9,10 @@ github_username             = "khaitan-nitin"
 ct_home_region              = "ap-southeast-2"
 tf_backend_secondary_region = ""
 
-cloudwatch_log_group_retention          = "1"
-aft_feature_disable_private_networking  = true
-aft_feature_cloudtrail_data_events      = false
-aft_vpc_endpoints                       = false
-aft_feature_delete_default_vpcs_enabled = true
+cloudwatch_log_group_retention                    = "1"
+aft_feature_disable_private_networking            = true
+aft_feature_cloudtrail_data_events                = false
+aft_vpc_endpoints                                 = false
+aft_feature_delete_default_vpcs_enabled           = true
+aft_metrics_reporting                             = false
+aft_feature_control_tower_dynamodb_backup_enabled = false

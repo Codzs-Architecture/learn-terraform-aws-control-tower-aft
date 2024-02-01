@@ -24,3 +24,7 @@ variable "aft_vpc_endpoints" {}
 variable "aft_feature_cloudtrail_data_events" {}
 
 variable "aft_feature_delete_default_vpcs_enabled" {}
+
+variable "aft_metrics_reporting" {}
+
+variable "aft_feature_control_tower_dynamodb_backup_enabled" {}
