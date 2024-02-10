@@ -5,7 +5,7 @@ ct_management_account_id    = "923393413720"
 log_archive_account_id      = "163563420026"
 audit_account_id            = "432630990765"
 aft_management_account_id   = "767397998320"
-github_username             = "khaitan-nitin"
+github_username             = "Codzs-Architecture"
 ct_home_region              = "ap-southeast-2"
 tf_backend_secondary_region = ""
 
